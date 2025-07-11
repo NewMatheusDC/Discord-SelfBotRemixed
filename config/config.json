@@ -1,0 +1,28 @@
+{
+    "prefix": ".",
+    "remote-users": [],
+    "autoreply": {
+        "messages": [
+            "test"
+        ],
+        "channels": [],
+        "users": []
+    },
+    "afk": {
+        "enabled": false,
+        "message": "I am currently AFK. I will respond as soon as possible!"
+    },
+    "copycat": {
+        "users": []
+    },
+    "autoreact": {
+        "enabled": false,
+        "targets": [],
+        "blacklist": [],
+        "react_to_own": false
+    },
+    "autolog": {
+        "enabled": false,
+        "log_pairs": []
+    }
+}
