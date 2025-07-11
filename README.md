@@ -25,7 +25,7 @@ This is a remixed version of the original [Discord-SelfBot](https://github.com/A
    pip install -r requirements.txt
    ```
 4. **Configure the bot**:
-   - Edit `YOUR_TOKEN(main.py` with your token and settings
+   - Edit `YOUR_TOKEN(main.py)` with your token and settings
 5. **Run the bot**:
    ```bash
    python main.py
