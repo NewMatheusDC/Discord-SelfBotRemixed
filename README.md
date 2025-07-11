@@ -92,6 +92,7 @@ Start the bot and use commands with your prefix (default is `.`). For a full lis
 ## Credits
 
 This project is based on the original work by [AstraaDev](https://github.com/AstraaDev/Discord-SelfBot). All credit for the core functionality goes to them.
+The official project [humza1400](https://github.com/humza1400)
 
 ## License
 
