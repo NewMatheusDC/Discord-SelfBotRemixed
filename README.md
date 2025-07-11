@@ -38,7 +38,7 @@ This is a remixed version of the original [Discord-SelfBot](https://github.com/A
    ```bash
    pkg update && pkg upgrade
    pkg install python git
-   git clone https://github.com/yourusername/selfbot-remix.git
+   git clone https://github.com/NewMatheusDC/selfbot-remix.git
    cd selfbot-remix
    pip install -r requirements.txt
    ```
