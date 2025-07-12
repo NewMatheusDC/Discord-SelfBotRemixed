@@ -197,7 +197,7 @@ Use `{prefix}help <category>` to view specific commands."""
                 f"{prefix}uptime - Show how long the bot has been running",
                 f"{prefix}ping - Return bot latency",
                 f"{prefix}remoteuser <@user> - Authorize a user to execute commands remotely",
-                f"{prefix}restart - restart the program (beta)
+                f"{prefix}restart - restart the program (beta)",
             ]
         },
         "user": {
