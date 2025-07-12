@@ -74,7 +74,7 @@ def selfbot_menu(bot):
 \t{y}[{w}#{y}]{w} Active Autoreply Users: {len(config["autoreply"]["users"])}\n
 \t{y}[{w}#{y}]{w} AFK Status: {'Enabled' if config["afk"]["enabled"] else 'Disabled'}
 \t{y}[{w}#{y}]{w} AFK Message: "{config["afk"]["message"]}"\n
-\t{y}[{w}#{y}]{w} Total Commands Loaded: 51\n\n
+\t{y}[{w}#{y}]{w} Total Commands Loaded: 52\n\n
 {y}[{Fore.GREEN}!{y}]{w} SelfBot is now online and ready!""")
 
 bot = commands.Bot(
@@ -176,7 +176,7 @@ async def help(ctx, *, category=None):
 {prefix}help stealth   - Stealth & Hidden Commands
 
 📊 Quick Stats:
-Total Commands: 51
+Total Commands: 52
 Guilds Connected: {len(bot.guilds)}
 Cached Users: {len(bot.users)}
 ```
