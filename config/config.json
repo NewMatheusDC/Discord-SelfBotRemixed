@@ -1,5 +1,6 @@
 {
-    "prefix": ".",
+    "token": "your_token",
+    "prefix": ".",    
     "remote-users": [],
     "autoreply": {
         "messages": [
