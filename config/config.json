@@ -1,6 +1,6 @@
 {
     "token": "your_token",
-    "prefix": ".",    
+    "prefix": ".",
     "remote-users": [],
     "autoreply": {
         "messages": [
@@ -11,7 +11,7 @@
     },
     "afk": {
         "enabled": false,
-        "message": "I am currently AFK. I will respond as soon as possible!"
+        "message": "test"
     },
     "copycat": {
         "users": []
@@ -25,5 +25,14 @@
     "autolog": {
         "enabled": false,
         "log_pairs": []
+    },
+    "selfbot_detector": {
+        "enabled": false,
+        "console_logging": false,
+        "detected_users": []
+    },
+    "autonumber": {
+        "enabled": false,
+        "targets": []
     }
 }
