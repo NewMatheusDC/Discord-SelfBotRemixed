@@ -109,10 +109,18 @@ Using selfbots may violate Discord's Terms of Service. Use at your own risk. Thi
 
 and also if it goes wrong during the pillow installation do this
 1 -
+
+
+
 "pkg install libjpeg-turbo libpng freetype libwebp"
+
+
+
 
 2 -
 "pkg install python build-essential"
+
+
 
 3 -
 "pip install pillow --no-cache-dir"
