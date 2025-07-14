@@ -102,14 +102,18 @@ MIT License - Same as the original project
 
 ## Warning
 
-Using selfbots may violate Discord's Terms of Service. Use at your own risk. This project is for educational purposes only,
+Using selfbots may violate Discord's Terms of Service. Use at your own risk. This project is for educational purposes only.
+
+
+
+
 and also if it goes wrong during the pillow installation do this
 1 -
-pkg install libjpeg-turbo libpng freetype libwebp
+"pkg install libjpeg-turbo libpng freetype libwebp"
 
 2 -
-pkg install python build-essential
+"pkg install python build-essential"
 
 3 -
-pip install pillow --no-cache-dir
+"pip install pillow --no-cache-dir"
 I hope this has solved the problem.
