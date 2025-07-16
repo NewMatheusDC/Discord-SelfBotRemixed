@@ -59,6 +59,7 @@ Edit `config/config.json` with your preferred settings:
 
 ```json
 {
+    "token": "your_token",
     "prefix": ".",
     "remote-users": [],
     "autoreply": {
